@@ -1,0 +1,13 @@
+song: at the speed of light.wav§
+artist: §
+creator: manufacture copy§
+level: {
+id: 8; pos: (16.00, -3.00); rot: 0;
+id: 6; pos: (10.00, -3.00); rot: 0;
+id: 7; pos: (9.00, -3.00); rot: 0;
+id: 6; pos: (8.00, -3.00); rot: 0;
+id: 7; pos: (7.00, -3.00); rot: 0;
+id: 6; pos: (5.00, -3.00); rot: 0;
+id: 7; pos: (4.00, -3.00); rot: 0;
+id: 6; pos: (3.00, -3.00); rot: 0;
+}
