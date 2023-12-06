@@ -8,6 +8,5 @@ how to use:
 put your own level and music files in "saves" and "music" respectively, zip this up, and send it to a friend. everything else should work as intended.
 
 this took me like an hour to make so it's probably not very good but uh it works kinda
-btw make sure in line 2 of install.bat change the value of "yourname" to your name
 
 and then when you are done, zip everything in this directory and send it to your friends i guess
